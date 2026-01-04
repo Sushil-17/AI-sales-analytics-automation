@@ -46,15 +46,17 @@ Raw Excel Files
 
 ## 📁 Folder Structure
 
+```text
 ai_data/
 ├── data/
 │ ├── sales_dirty_dataset.xlsx
 │ ├── clean_sales_data.xlsx
 │ └── sales_kpi_report.xlsx
 └── scripts/
-├── excel_automation.py
-├── ai_insights.py
-└── load_to_db.py
+	├── excel_automation.py
+	├── ai_insights.py
+	└── load_to_db.py
+```
 
 
 ---
